@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "9f77gs6r5nf",
+      "email": "admin@example.com",
+      "password": "$2a$10$.6fIPulfzFnQdOOTXyKcLOojTqP9E7utEhJgDLXF6/vVI1vN5XdU6",
+      "name": "Admin User",
+      "createdAt": "2025-02-08T17:07:35.485Z",
+      "theme": "light",
+      "isSuperAdmin": true,
+      "isAdmin": true,
+      "siteIds": ["1", "2", "3"]
+    }
+  ]
+}
